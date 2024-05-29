@@ -2,27 +2,31 @@
 </p>
 <br>
 
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/047aa572-2d92-42a6-bef7-ce3a636bc77a)
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/2dd8f154-deb6-40a3-a559-2843ac525cc7)
 
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
-
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/6ed877c1-f42e-472f-8ef1-27513a2cc110)
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
 
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/5ed94c56-a4b2-4420-b804-e98bdadf9193)
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/3b9539c0-0edb-4988-8fdf-72b9b4c096e3)
+
+
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
 
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/8b29a715-1622-402b-a0ac-4aa79f48be8c)
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/3069c1ad-a058-4a3a-9003-2c4224a24386)
+
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</p>
+<br>
+
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/224cc6b0-6aaf-43b2-b04a-112f20c2d7f7)
+
 
 
 
