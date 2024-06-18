@@ -100,4 +100,4 @@
 > [!WARNING]
 > By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
 
-<a href=#top>Back to Top♥</a></p>
+<a href=#top>Back to Top♥</a>!</p>
